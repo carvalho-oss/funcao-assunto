@@ -1,7 +1,7 @@
-import os 
+import os
 os.system ('cls')
 
-def mostrar_saudacao(nome, idade)
+def mostrar_saudacao(nome, idade):
     print(f'{nome}tem {idade} anos.')
 
 print('= SOLICITANDO DADOS =')

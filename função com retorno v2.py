@@ -1,7 +1,7 @@
 import os
 os.system('cls')
 
-def calcular_notas(nota1, nota2)
+def calcular_notas(nota1, nota2):
     resultado = (nota1 + nota2) / 2
     return resultado
 

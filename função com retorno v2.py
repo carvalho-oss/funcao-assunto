@@ -12,7 +12,7 @@ def calcular_notas(nota1, nota2):
 
 # USANDO A FUNÇÃO COM PARÂMETROS E
 # INSERINDO O RETORNO NA VARIÀVEL MÉDIA.
-media = calcular_notas(nota1, nota2)
+media = calcular_notas(nota1 , nota2)
 
 
 
